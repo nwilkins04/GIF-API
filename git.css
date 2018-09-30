@@ -1,3 +1,15 @@
+body {
+    background-color: gray;
+}
+
 input {
     margin: 10px;
+}
+
+button {
+    background-color:lightseagreen;
+    border-style: solid;
+    border: lightseagreen;
+    margin: 10px;
+    font-size: 40px;
 }
